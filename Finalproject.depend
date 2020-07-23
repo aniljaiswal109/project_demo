@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1595513305 source:f:\newlibrary\finalproject\library.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"library.h"
+
+1595513234 source:f:\newlibrary\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+
+1595513242 f:\newlibrary\finalproject\library.h
+
